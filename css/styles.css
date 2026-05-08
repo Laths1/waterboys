@@ -540,7 +540,7 @@ Products
   border-radius: var(--radius);
   margin-bottom: 2rem;
   height: 17rem;
-  object-fit: cover;
+  object-fit: fill;
 }
 .product-price {
   color: var(--clr-primary);
